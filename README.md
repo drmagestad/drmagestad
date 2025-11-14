@@ -6,4 +6,12 @@ Me llamo Juan Alvarez y soy Analista en Ciberseguridad. Aqui vas a encontrar mis
 
 ### Máquinas resueltas en TryHackMe 💻
 
-En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y las soluciones que he implementado.
+En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
+
+### Proyectos en Python
+
+
+
+### Proyectos de Cacería de Amenazas
+
+ 
