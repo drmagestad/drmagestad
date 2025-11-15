@@ -20,4 +20,4 @@ En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, d
 
 ### Proyectos de Cacería de Amenazas
 
- 
+[Threat Hunting - Suspicious Link Analysis](https://github.com/drmagestad/threat-hunting-virustotal) - Este repositorio documenta un ejercicio de threat hunting, basado en el análisis de un enlace sospechoso.
