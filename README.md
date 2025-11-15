@@ -10,6 +10,7 @@ En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, d
 
 ### Proyectos en Python
 
+[Automated Advanced Searches with Google API](https://github.com/drmagestad/google-dork-automation)
 
 
 ### Proyectos de Cacería de Amenazas
