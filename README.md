@@ -16,7 +16,7 @@ En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, d
 
 [Phone Number Info & Mapping Tool](https://github.com/drmagestad/phone_geolocation) - Herramienta para obtener información detallada de números telefónicos (país, operador y zona horaria) y generar un mapa interactivo con su ubicación aproximada. Ideal para aprender sobre geolocalización y análisis de datos en Python.
 
-[IP Geolocation & Mapping Tool](https://github.com/drmagestad/ip_geolocation)
+[IP Geolocation & Mapping Tool](https://github.com/drmagestad/ip_geolocation) - Aplicación en Python que consulta la ubicación de una dirección IP mediante la API de ipinfo y la muestra en un mapa interactivo. Permite visualizar datos como ciudad, país y proveedor de red de forma sencilla y práctica.
 
 ### Proyectos de Cacería de Amenazas
 
