@@ -1,4 +1,5 @@
-## ¡Hola! ✌️
+## <script>alert('¡Hola!');</script>
+
 
 Me llamo Juan, soy Analista en Ciberseguridad.
 Aqui vas a encontrar mis aventuras documentadas con un toque de mi personalidad. Si tienes alguna pregunta sobre mi contenido o crees que puedo mejorar algo, no dudes en contactarme.
