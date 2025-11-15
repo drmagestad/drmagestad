@@ -6,7 +6,7 @@ Aqui vas a encontrar mis aventuras documentadas con un toque de mi personalidad.
 
 ### Máquinas resueltas en TryHackMe 💻
 
-En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos. - [drMagestad](https://github.com/drmagestad/My-Offensive-Security-Journey-THM)
+[drMagestad](https://github.com/drmagestad/My-Offensive-Security-Journey-THM) - En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
 
 ### Proyectos en Python
 
