@@ -22,4 +22,6 @@ Aqui vas a encontrar mis aventuras documentadas con un toque de mi personalidad.
 
 [Threat Hunting - Suspicious Link Analysis](https://github.com/drmagestad/threat-hunting-virustotal) - Este repositorio documenta un ejercicio de threat hunting, basado en el análisis de un enlace sospechoso.
 
-# Me va a llevar unos dias dejar bien esto c:
+### Proyectos en Raspberry Pi
+
+# Me va a llevar unos dias termianr esto c:
