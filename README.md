@@ -9,6 +9,8 @@ Aqui vas a encontrar mis aventuras documentadas con un toque de mi personalidad.
 
 En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
 
+[drMagestad](https://github.com/drmagestad/My-Offensive-Security-Journey-THM)
+
 ### Proyectos en Python
 
 [Automated Advanced Searches with Google API](https://github.com/drmagestad/google-dork-automation) - Automatiza búsquedas con Google Dorks usando IA, ideal para OSINT y pentesting.
