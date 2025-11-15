@@ -12,6 +12,11 @@ En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, d
 
 [Automated Advanced Searches with Google API](https://github.com/drmagestad/google-dork-automation)
 
+[Image Metadata Extractor](https://github.com/drmagestad/metadata_analyzer)
+
+[Phone Number Info & Mapping Tool](https://github.com/drmagestad/phone_geolocation)
+
+[IP Geolocation & Mapping Tool](https://github.com/drmagestad/ip_geolocation)
 
 ### Proyectos de Cacería de Amenazas
 
