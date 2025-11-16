@@ -14,7 +14,7 @@ Aqui vas a encontrar mis aventuras documentadas con un toque de mi personalidad.
 
 [Image Metadata Extractor](https://github.com/drmagestad/metadata_analyzer) - Herramienta en Python para extraer metadatos de imágenes (JPG, JPEG, PNG), diseñada con el patrón Factory y fácil de ampliar a otros tipos de archivos.
 
-[Phone Number Info & Mapping Tool](https://github.com/drmagestad/phone_geolocation) - Herramienta para obtener información detallada de números telefónicos (país, operador y zona horaria) y generar un mapa interactivo con su ubicación aproximada. Ideal para aprender sobre geolocalización y análisis de datos en Python.
+[Password Generator](https://github.com/drmagestad/Pass-Gen) - Herramienta para crear contraseñas, diseñado para ofrecer combinaciones robustas utilizando fuentes criptográficamente seguras.
 
 [IP Geolocation & Mapping Tool](https://github.com/drmagestad/ip_geolocation) - Aplicación en Python que consulta la ubicación de una dirección IP mediante la API de ipinfo y la muestra en un mapa interactivo. Permite visualizar datos como ciudad, país y proveedor de red de forma sencilla y práctica.
 
