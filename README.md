@@ -9,6 +9,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 
 ### Forence
 
+[001-WSU](https://github.com/drmagestad/Digital-Forensics/tree/main)
 
 
 ### Proyectos en Python 👨‍💻
