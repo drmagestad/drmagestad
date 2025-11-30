@@ -7,7 +7,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 
 [drMagestad](https://github.com/drmagestad/My-Offensive-Security-Journey-THM) - En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
 
-### Forence
+### Forence 🕵️‍♂️
 
 [001-WSU](https://github.com/drmagestad/Digital-Forensics/tree/main) - En este apartado encontrarás casos prácticos de informática forense, donde analizo evidencias, reconstruyo incidentes y aplico metodologías de investigación digital.
 
