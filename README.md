@@ -9,7 +9,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 
 ### Forence
 
-[001-WSU](https://github.com/drmagestad/Digital-Forensics/tree/main)
+[001-WSU](https://github.com/drmagestad/Digital-Forensics/tree/main) - En este apartado encontrarás casos prácticos de informática forense, donde analizo evidencias, reconstruyo incidentes y aplico metodologías de investigación digital.
 
 
 ### Proyectos en Python 👨‍💻
