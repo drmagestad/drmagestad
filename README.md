@@ -5,7 +5,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 
 ### Máquinas resueltas en TryHackMe 💻
 
-[drMagestad]([724012](https://tryhackme.com/p/drMagestad)) - En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
+[drMagestad](https://tryhackme.com/p/drMagestad) - En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
 
 ### Forence 🕵️‍♂️
 
