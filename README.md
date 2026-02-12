@@ -8,7 +8,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 [Rooted Notes](https://github.com/drmagestad/Rooted-Notes/tree/main) - Repositorio personal de investigación y aprendizaje en ciberseguridad. 
 Contiene writeups estructurados, análisis de vulnerabilidades y documentación técnica orientada a la comprensión de cada escenario.
 
-### Forence 🕵️‍♂️
+### Forense 🕵️‍♂️
 
 [001-WSU](https://github.com/drmagestad/Digital-Forensics/tree/main) - En este apartado encontrarás casos prácticos de informática forense, donde analizo evidencias, reconstruyo incidentes y aplico metodologías de investigación digital.
 
