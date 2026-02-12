@@ -3,9 +3,10 @@
 
 Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sobre mi contenido o crees que puedo mejorar algo, no dudes en contactarme. - [LinkedIn](https://www.linkedin.com/in/juan-alvarez-b4268a20a/)
 
-### TryHackMe 💻
+### Writeups💻
 
-[drMagestad](https://tryhackme.com/p/drMagestad) - En este apartado podrás encontrar las máquinas que he resuelto en TryHackMe, donde comparto los desafíos que he enfrentado y como me las ingenio para cumplir los objetivos.
+[Rooted Notes](https://github.com/drmagestad/Rooted-Notes/tree/main) - Repositorio personal de investigación y aprendizaje en ciberseguridad. 
+Contiene writeups estructurados, análisis de vulnerabilidades y documentación técnica orientada a la comprensión profunda de cada escenario.
 
 ### Forence 🕵️‍♂️
 
