@@ -1,7 +1,7 @@
 ## Hola! ✌️
 
 
-Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sobre mi contenido o crees que puedo mejorar algo, no dudes en contactarme. - [LinkedIn](https://www.linkedin.com/in/juan-alvarez-b4268a20a/)
+Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sobre el contenido o crees que puedo mejorar algo, no dudes en contactarme. - [LinkedIn](https://www.linkedin.com/in/juan-alvarez-b4268a20a/)
 
 ### Writeups💻
 
