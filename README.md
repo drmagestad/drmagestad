@@ -6,7 +6,7 @@ Aqui vas a encontrar mis actividades documentadas. Si tienes alguna pregunta sob
 ### Writeups💻
 
 [Rooted Notes](https://github.com/drmagestad/Rooted-Notes/tree/main) - Repositorio personal de investigación y aprendizaje en ciberseguridad. 
-Contiene writeups estructurados, análisis de vulnerabilidades y documentación técnica orientada a la comprensión profunda de cada escenario.
+Contiene writeups estructurados, análisis de vulnerabilidades y documentación técnica orientada a la comprensión de cada escenario.
 
 ### Forence 🕵️‍♂️
 
